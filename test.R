@@ -9,3 +9,5 @@ a <- 10
 add <- a+10
 
 y <- add+100
+
+"git pull"
